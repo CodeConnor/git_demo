@@ -4,6 +4,8 @@ int main()
 {
 
 	printf("hello Git!\n");
+	printf("hello Git!\n");
+	printf("hello Git!\n");
 
 	printf("hello world!\n");
 	
